@@ -1,3 +1,7 @@
+a   {
+    font-family: "Lucida Sans Unicode", "Arial Unicode", sans-serif; 
+    font-weight: bold; 
+    text-decoration: underline;}
 body    {
     background-color: #bbbb88; 
     background-image:url('');} 
