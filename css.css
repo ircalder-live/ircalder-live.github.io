@@ -8,7 +8,7 @@ body    {
 div
     .vocabulary {
         display: grid;
-        grid-template-columns: repeat(15, 50px);
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
         grid-gap: 5px;
         }
 h1	{
