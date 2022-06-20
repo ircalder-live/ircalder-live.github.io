@@ -5,6 +5,12 @@ a   {
 body    {
     background-color: #bbbb88; 
     background-image:url('');} 
+div
+    .vocabulary {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 20px;
+        }
 h1	{
     font-size: 18pt; 
     font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
