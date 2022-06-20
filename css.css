@@ -8,8 +8,8 @@ body    {
 div
     .vocabulary {
         display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 20px;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 5px;
         }
 h1	{
     font-size: 18pt; 
