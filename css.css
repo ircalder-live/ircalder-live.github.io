@@ -1,0 +1,92 @@
+a   {
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    text-decoration: underline;}
+body    {
+    background-color: #bbbb88; 
+    background-image:url('');} 
+div
+    .vocabulary {
+        display: grid;
+        grid-template-columns: 40px 40px 40px 40px 40px 40px;
+        grid-gap: 5px;
+        }
+h1	{
+    font-size: 18pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    color:  #000000}
+h2	{
+    font-size: 16pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    color: #000000}
+h3	{
+    font-size: 14pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    color: #000000}
+h4	{
+    font-size: 13pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    color: #000000;}
+h5	{
+    font-size: 12pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    text-decoration: underline; 
+    color: #000000;}
+h6	{
+    font-size: 11pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    font-weight: bold; 
+    color: #000000;}
+li	{
+    font-size: 10pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    color: #000000;}
+p   {
+    font-size: 10pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    color: #000000;}
+caption	{
+    font-size: 10pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    padding: 12pt; 
+    color: #000000; 
+    text-align: center;}
+ruby	{
+    font-size: 60pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    ruby-align: center; 
+    ruby-position: alternate;}
+rtc {
+    font-size: 12pt;}
+
+table	{
+    background-color: #ffffff;}
+
+td	{
+    border-color: #555555; 
+    border-width: 0px 0px 0px 0px; 
+    border-style: solid; 
+    font-size: 8pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    color: #000000;}
+td A	{
+    font-size: 8pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;}
+th	{
+    font-size: 10pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    color: #000000; 
+    padding: 1px;}
+tr	{
+    border-color: #555555; 
+    border-width: 1px 0px 1px 0px; 
+    border-style: solid;}
+ul	{
+    font-size: 10pt; 
+    font-family:  "Trebuchet MS", "NSimSun", "FangSong", sans-serif;
+    color: #000000;}
